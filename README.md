@@ -10,7 +10,7 @@
 
 ***
 
- <center> :star::ghost::moon::star::moon::ghost::star: </center>
+ <center> :star: :ghost: :moon: :star: :moon: :ghost: :star: </center>
 
-好像居中失败了......
+都识别出来是html了为什么不居中:white_flag::white_flag::white_flag::white_flag::white_flag:
 

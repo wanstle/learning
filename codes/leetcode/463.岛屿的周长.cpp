@@ -11,7 +11,7 @@ public:
         queue<int> land_pos;
         int flag = 0;//上一行是否存在陆地
         int col = grid[0].size();
-        int sum = 0;
+        int sum = 0;//周长总和
         int f_data = -2;//上一行pop
         int up_land = -2;//该位置前面的陆地位置
         for(auto p = grid.begin();p != grid.end();p++){

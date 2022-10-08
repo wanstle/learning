@@ -13,7 +13,7 @@
 				"-o",
 				"${fileDirname}\\${fileBasenameNoExtension}.exe",
                 "-I","${workspaceFolder}/include",
-				"${workspaceFolder}/lib/test.cpp"
+				"${workspaceFolder}/lib/**"
 			],
 			"options": {
 				"cwd": "${fileDirname}"
