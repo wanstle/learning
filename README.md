@@ -12,5 +12,4 @@
 
  <center> :star: :ghost: :moon: :star: :moon: :ghost: :star: </center>
 
-都识别出来是html了为什么不居中:white_flag::white_flag::white_flag::white_flag::white_flag:
-
+ubuntu下的`emoji`没windows下好看
