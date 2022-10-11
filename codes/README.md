@@ -8,6 +8,8 @@
 
 `leetcode`是刷的力扣题，语言也是`c++`，时间总是很慢于大多数人，还在加油:fist:
 
+`CPPonUbuntu`使用CMake来管理项目，因为操作系统是ubuntu所以得名 :hand:
+
 持续更新中...
 
 ***
