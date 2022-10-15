@@ -20,7 +20,7 @@ T getAbs(T a){
     return a > 0?a:(-a);
 };
 
-int func_moban(){
+int moban(){
     Cat pet1("Kitty", 1, "white");
     Cat pet2("Mimi", 2, "brown");
 
