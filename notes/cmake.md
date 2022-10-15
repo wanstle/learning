@@ -10,6 +10,7 @@ cd build
 cmake ..
 # 执行
 cmake --build .
+./main
 # 库的安装
 cmake --install .
 ```
@@ -72,7 +73,7 @@ add_subdirectory (src)
 
 ```cmake
 # 设置elf位置在根目录下bin文件夹内
-set (EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/bin)
+c
 ```
 
 

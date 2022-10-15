@@ -30,8 +30,9 @@
 *.exe
 *.out
 *.app
+*.elf
 
 build/
 .vscode/
-bin/
+
 
