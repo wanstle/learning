@@ -1,0 +1,51 @@
+body {
+    background-image: url("pic/background.jpg");
+    background-repeat: repeat-x;
+  }
+
+nav{
+    line-height:30px;
+    background-color:#eeeeee;
+    height:600px;
+    width:200px;
+    float:left;
+    padding:5px;
+ }  
+  
+section{
+    height:600px;
+    width:800px;
+    float:left;
+    padding:10px;	 	 
+    background-color: rgb(253, 253, 253);
+ }
+
+div {
+    text-align: left;
+    color: rgb(0, 0, 0);
+    margin: 15px 30px 15px 30px;
+  }
+
+
+div.side {
+    text-align: center;
+ }
+
+a:link {
+    text-decoration: none;
+ }
+
+header {
+    padding:5px;	 
+    text-align: center;
+    font-family: "Sofia";
+    font-size: 22px;
+    color: rgb(255, 255, 255);
+  }
+footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;	 	 
+}

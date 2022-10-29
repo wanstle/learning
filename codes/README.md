@@ -10,6 +10,8 @@
 
 `CPPonUbuntu`使用CMake来管理项目，因为操作系统是ubuntu所以得名 :hand:
 
+`html_lr`是对前端的基本学习:facepunch:
+
 持续更新中...
 
 ***
