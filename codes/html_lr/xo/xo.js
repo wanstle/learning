@@ -21,6 +21,13 @@ function oneTry(place) {
         if(endState == false)
             playerChange();
     }
+    
+try {
+    adddlert("欢迎访问！");
+}
+catch(err) {
+    throw 'err!';
+}
 }
 
 function getxo(place) {
