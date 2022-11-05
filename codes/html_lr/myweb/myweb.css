@@ -9,7 +9,7 @@ nav{
     height:600px;
     width:200px;
     float:left;
-    padding:5px;
+    padding:10px;
  }  
   
 section{
@@ -43,9 +43,10 @@ header {
     color: rgb(255, 255, 255);
   }
 footer {
+    width:1000px;
     background-color:black;
     color:white;
     clear:both;
     text-align:center;
-    padding:5px;	 	 
+    padding:20px;	 	 
 }
